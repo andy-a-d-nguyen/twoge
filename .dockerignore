@@ -1,0 +1,6 @@
+.git/
+.mypy_cache/
+.trunk/
+venv/
+static/
+readme.MD
